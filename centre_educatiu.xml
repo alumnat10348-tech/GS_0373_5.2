@@ -13,7 +13,7 @@
 	    	<link>https://www.ultimahora.es/noticias/local/2026/02/12/2568723/educacion-comienza-reparar-escaleras-clausuradas-por-seguridad-del-ies-joan-alcover.html</link>
 	    	<description>La Conselleria ha iniciat l'apuntalament d'emergència de les escales de l'IES Joan Alcover, clausurat per seguretat. L'objectiu és restaurar la normalitat ràpidament a causa del deteriorament per falta de manteniment.</description>
 	   		<pubDate>Thu, 12 Feb 2026 10:51:00 +0100</pubDate>
-		</item>
+		    </item>
 	 
 	   <item>
 			<title>Dimissió a l'IES Josep Maria Llompart</title>
@@ -21,7 +21,7 @@
 			<link>https://www.ultimahora.es/noticias/local/2026/01/27/2557809/director-del-ies-josep-maria-llompart-palma-dimite-tras-acusaciones-por-abuso-poder.html</link>
 			<description>El director del IES Josep Maria Llompart, Jaume Salvà, ha dimitit després de ser denunciat per professors per presumpte abús de poder i amagar un informe de riscos psicosocials.</description>
 			<pubDate>Mon, 26 Jan 2026 13:34:00 +0100</pubDate>
-		</item>
+		    </item>
 		
 	   <item>
 			<title>Adolescència Lliure de Mòbils arriba a l'IES Binissalem</title>
@@ -29,7 +29,7 @@
 			<link>https://www.diariodemallorca.es/part-forana/2026/02/01/adolescencia-libre-moviles-llega-ies-126265499.html</link>
 			<description>L'objectiu és fer reflexionar les famílies i empoderar-les per promoure un pacte social perquè el major nombre de llars endarrereixin el lliurament del primer telèfon intel·ligent als adolescents.</description>
 			<pubDate>Sun, 1 Feb 2026 06:00:00 +0100</pubDate>
-		</item>
+		    </item>
 
 		<item>
 			<title>Una grua s'enfonsa al pati de l'IES Antoni Maura de Palma</title>
@@ -37,7 +37,7 @@
 			<link>https://www.diariodemallorca.es/videos/sucesos/2026/02/04/grua-hunde-patio-ies-antoni-126445858.html</link>
 			<description>Una grua de gran tonatge que estava treballant en la retirada d'uns pins afectats pels temporals dels darrers dies s'enfonsà en un antic aljub.</description>
 			<pubDate>Wed, 4 Feb 2026 19:22:00 +0100</pubDate>
-		</item>
+		    </item>
 		
 		<item>
 			<title>Vaga d'alumnes a l'IES Joan Alcover</title>
@@ -45,6 +45,7 @@
 			<link>https://www.diariodemallorca.es/videos/mallorca/2026/01/28/video-alumnos-ies-joan-alcover-126183821.html</link>
 			<description>Els alumnes de l'IES Joan Alcover anuncien una vaga davant el conseller d'Educació i Universitats, Antoni Vera, per l'estat de deteriorament del centre.</description>
 			<pubDate>Wed, 28 Jan 2026 14:41:00 +0100</pubDate>
-		</item>
+		    </item>
+
 	</channel>
 </rss>
